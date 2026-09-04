@@ -56,8 +56,7 @@ Uncertain or unverified information should be explicitly marked rather than sile
 
 ## Citation
 
-Citation information is provided in `CITATION.cff`. Update the author details, repository URL, DOI, and release date before creating a formal release.
-
+Citation information is provided in `CITATION.cff`. 
 ## Contact
 
 Mascarene Paleo  
