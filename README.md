@@ -25,7 +25,7 @@ This version should be treated as incomplete. Records may be added, corrected, m
 
 ## Core database tables
 
-The recommended core tables are:
+The core tables are:
 
 1. `specimens.csv`
 2. `taxa.csv`
