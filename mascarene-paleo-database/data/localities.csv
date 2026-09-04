@@ -1,0 +1,10 @@
+﻿locality_id,locality_name,island,latitude,longitude,elevation,locality_type,geological_setting,sediment,age,dating_method,stratigraphic_information,confidence,notes
+MAS-LOC-0001,Petite Riviere,Mauritius,,,,,,,,,,,"Imported from NHMUK locality-ID mapping; precise locality, coordinates, stratigraphy and age require verification."
+MAS-LOC-0002,Cavern,Rodrigues,,,,,,,,,,,"Imported from NHMUK locality-ID mapping; precise locality, coordinates, stratigraphy and age require verification."
+MAS-LOC-0003,Mare-aux-Songes,Mauritius,,,,,,,,,,,"Imported from NHMUK locality-ID mapping; precise locality, coordinates, stratigraphy and age require verification."
+MAS-LOC-0004,Rodrigues Island,Rodrigues,,,,,,,,,,,"Imported from NHMUK locality-ID mapping; precise locality, coordinates, stratigraphy and age require verification."
+MAS-LOC-0005,Mauritius,Mauritius,,,,,,,,,,,"Imported from NHMUK locality-ID mapping; precise locality, coordinates, stratigraphy and age require verification."
+MAS-LOC-0006,,Rodrigues,,,,,,,,,,,NHMUK locality mapping has no named locality; retained for specimen linkage and requires resolution.
+MAS-LOC-0007,Le Pouce,Mauritius,,,,mountain / valley fossil locality,,,Holocene / subfossil,,Precise collecting point unresolved; Hume (2007) reports Thirioux material from the side of Le Pouce valley.,B,NHMUK mapping recorded 'La Pouce Mountain'. Hume (2007) uses Le Pouce and notes that Thirioux's precise collecting locality remains uncertain.
+MAS-LOC-0008,Plaine Corail,Rodrigues,,,,limestone / cave-bearing fossil area,carbonate terrain / calcarenite,,Holocene / subfossil,,,B,Added from published Mascarene palaeontological literature; exact cave/collection point should be recorded at specimen level when known.
+MAS-LOC-0009,Vallée des Prêtres,Mauritius,,,,,,,,,,,

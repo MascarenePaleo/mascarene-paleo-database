@@ -1,0 +1,37 @@
+﻿species_id,accepted_name,authority,original_name,synonyms,group,island,extinction_status,evidence_confidence,notes
+MAS-TAX-0001,Raphus cucullatus,,Raphus cucullatus,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0002,Pezophaps solitaria,,Pezophaps solitaria,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0003,Lophopsittacus mauritianus,"Owen, 1866","Lophopsittacus mauritianus Owen, 1866",Psittacus mauritianus,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0004,Necropsar rodericanus,,Necropsar rodericanus,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0005,Sula piscator,"(Linnaeus, 1758)","Sula piscator (Linnaeus, 1758)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0006,Astur alphonsi,"Newton & Gadow, 1893","Astur alphonsi Newton & Gadow, 1893",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0007,Plotus nanus,"Newton & Gadow, 1893","Plotus nanus Newton & Gadow, 1893",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0008,Butorides mauritianus,"Gunther & Newton, 1879","Butorides mauritianus Gunther & Newton, 1879",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0009,Sarcidiornis mauritianus,"Newton & Gadow, 1893","Sarcidiornis mauritianus Newton & Gadow, 1893",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0010,Anas theodori,"Newton & Gadow, 1893","Anas theodori Newton & Gadow, 1893",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0011,Fulica newtonii,"Milne-Edwards, 1867","Fulica newtonii Milne-Edwards, 1867",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0012,Aphanapteryx bonasia,"(Sélys-Longchamps, 1848)","Aphanapteryx broecki Schlegel, 1854","Aphanapteryx broecki Schlegel, 1854; Didus broeckei Schlegel, 1854",Aves: Gruiformes: Rallidae,Mauritius,Extinct,B,NHMUK raw identification retained in original_name. Hume (2019) treats historical broeckei/broecki names as synonyms of Aphanapteryx bonasia; current nomenclature should still be checked during taxonomic review.
+MAS-TAX-0013,Triadobatrachus massinoti,,Triadobatrachus massinoti,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0014,Raphus cucullatus,"(Linnaeus, 1758)","Raphus cucullatus (Linnaeus, 1758)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0015,,,Stub - [Specimen]: PV A 1576,,,,,,NHMUK mapping entry is not a usable taxonomic identification; retained for specimen linkage and requires manual resolution.
+MAS-TAX-0016,Papasula abbotti nelsoni,"Hume, 2023","Papasula abbotti nelsoni Hume, 2023",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0017,Papasula abbotti,,Papasula abbotti,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0018,,,Quaternary,,,,,,NHMUK mapping entry is not a usable taxonomic identification; retained for specimen linkage and requires manual resolution.
+MAS-TAX-0019,Testudo,"Linnaeus, 1758","Testudo Linnaeus, 1758",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0020,Leiolopisma mauritianus,"(Günther, 1877)","Leiolopisma mauritianus (Günther, 1877)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0021,,,"Quaternary, Pleistocene",,,,,,NHMUK mapping entry is not a usable taxonomic identification; retained for specimen linkage and requires manual resolution.
+MAS-TAX-0022,Phelsuma guentheri,"Boulenger, 1885","Phelsuma guentheri Boulenger, 1885",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0023,Casarea dussumieri,"(Schlegel, 1837)","Casarea dussumieri (Schlegel, 1837)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0024,Nactus serpensinsula,"(Loveridge, 1951)","Nactus serpensinsula (Loveridge, 1951)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0025,Leiolopisma telfairii,"(Desjardins, 1831)","Leiolopisma telfairii (Desjardins, 1831)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0026,Cylindraspis inepta,"(Gunther, 1873)","Cylindraspis inepta (Gunther, 1873)",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0027,Testudo aff,,Testudo aff,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0028,Testudo triserrata,"Gunther, 1873","Testudo triserrata Gunther, 1873",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0029,Testudo triserrata,,Testudo triserrata,,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0030,Testudo vosmaeri,"Fitzinger, 1826","Testudo vosmaeri Fitzinger, 1826",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0031,Testudo sumeirei,"Sauzier, 1892","Testudo sumeirei Sauzier, 1892",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0032,Testudo inepta,"Gunther, 1873","Testudo inepta Gunther, 1873",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0033,Testudo sauzieri,"Gadow, 1895","Testudo sauzieri Gadow, 1895",,,,,,Imported from NHMUK taxon-ID mapping; accepted taxonomy should be independently verified.
+MAS-TAX-0034,Necropsittacus rodericanus,"(Milne-Edwards, 1867)","Psittacus rodericanus Milne-Edwards, 1867",,Aves: Psittaciformes: Psittacidae,Rodrigues,Extinct,B,"Rodrigues parrot. UMZC 575 may represent the missing holotype, but Hume (2007) states that this cannot currently be confirmed."
+MAS-TAX-0035,Psittacula bensoni,"(Holyoak, 1973)","Lophopsittacus bensoni Holyoak, 1973",Lophopsittacus bensoni,Aves: Psittaciformes: Psittacidae,Mauritius,Extinct,B,"Thirioux's grey parrot; transferred to Psittacula by Hume (2007). Type locality: Le Pouce, Mauritius."
+MAS-TAX-0036,Dryolimnas chekei,"Hume, 2019","Dryolimnas chekei Hume, 2019",,Aves: Gruiformes: Rallidae,Mauritius,Extinct,B,"Cheke's wood rail, described from subfossil material from Mauritius; holotype UMZC 300AA5 from Mare aux Songes."
