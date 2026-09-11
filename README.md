@@ -8,7 +8,7 @@ This repository is intended to provide a transparent, updateable, and citable re
 
 ## Current version
 
-**v0.1.0 — Initial public working release**
+**v0.1.1 — Initial public working release**
 
 This version should be treated as incomplete. Records may be added, corrected, merged, or reinterpreted as museum catalogues, literature, historical archives, and specimen data are checked.
 
