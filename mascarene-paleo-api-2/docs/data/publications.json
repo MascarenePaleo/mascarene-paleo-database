@@ -1,0 +1,322 @@
+[
+  {
+    "publication_id": "MAS-PUB-0001",
+    "citation": "Lowe, M. (2019). UMZC Zoological Specimens. Version 6.1. University Museum of Zoology, Cambridge.",
+    "year": 2019,
+    "doi/link": "10.15468/pjmjvn",
+    "species": "Mascarene vertebrates",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Official digitized UMZC occurrence dataset; useful as a repository-level catalogue backbone. Published version contains 65,917 records.",
+    "source_type": "Dataset"
+  },
+  {
+    "publication_id": "MAS-PUB-0002",
+    "citation": "Hume, J.P. (2007). Reappraisal of the parrots (Aves: Psittacidae) from the Mascarene Islands, with comments on their ecology, morphology, and affinities. Zootaxa 1513: 1–76.",
+    "year": 2007,
+    "doi/link": "10.11646/zootaxa.1513.1.1",
+    "species": "Lophopsittacus mauritianus; Necropsittacus rodericanus; Psittacula bensoni",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Taxonomic revision, type information, locality history, and detailed lists/figures of museum specimens including UMZC material.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0003",
+    "citation": "Hume, J.P. & Steel, L. (2013). Fight club: a unique weapon in the wing of the solitaire, Pezophaps solitaria. Biological Journal of the Linnean Society 110: 32–44.",
+    "year": 2013,
+    "doi/link": "10.1111/bij.12087",
+    "species": "Pezophaps solitaria",
+    "localities": "Rodrigues",
+    "contribution": "Lists comparative subfossil wing elements and catalogue numbers, including multiple UMZC specimens.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0004",
+    "citation": "Hume, J.P. (2014). Systematics, morphology, and ecological history of the Mascarene starlings (Aves: Sturnidae). Zootaxa 3849: 1–75.",
+    "year": 2014,
+    "doi/link": "10.11646/zootaxa.3849.1.1",
+    "species": "Necropsar rodericanus; Cryptopsar ischyrhynchus",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Revises Mascarene starling systematics and identifies type/figured historical material held at UMZC and NHMUK.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0005",
+    "citation": "Hume, J.P. (2019). Systematics, morphology and ecology of rails (Aves: Rallidae) of the Mascarene Islands, with one new species. Zootaxa 4626: 1–107.",
+    "year": 2019,
+    "doi/link": "10.11646/zootaxa.4626.1.1",
+    "species": "Aphanapteryx bonasia; Dryolimnas chekei; Fulica newtonii",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Revises Mascarene rails and documents UMZC Aphanapteryx material and the holotype of Dryolimnas chekei.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0006",
+    "citation": "Citron, S. et al. (2026). The sensory world of the Dodo and Solitaire revealed by endocast and skull anatomy. Zoological Journal of the Linnean Society 207(4): zlag123.",
+    "year": 2026,
+    "doi/link": "10.1093/zoolinnean/zlag123",
+    "species": "Raphus cucullatus; Pezophaps solitaria",
+    "localities": "Mauritius; Rodrigues",
+    "contribution": "CT/endocast study listing three UMZC Solitaire specimens (415.R, 643, 647).",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0007",
+    "citation": "Rijsdijk, K.F. et al. (2009). Mid-Holocene vertebrate bone Concentration-Lagerstätte on oceanic island Mauritius provides a window into the ecosystem of the dodo (Raphus cucullatus). Quaternary Science Reviews 28:14–24.",
+    "year": 2009,
+    "doi/link": "10.1016/j.quascirev.2008.09.018",
+    "species": "Raphus cucullatus; Cylindraspis spp.",
+    "localities": "Mare aux Songes",
+    "contribution": "Core taphonomic and palaeoecological source for the Mare aux Songes vertebrate concentration.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0008",
+    "citation": "Meijer, H.J.M. et al. (2012). Dodo remains from an in situ context from Mare aux Songes, Mauritius. Naturwissenschaften 99:177–184.",
+    "year": 2012,
+    "doi/link": "10.1007/s00114-012-0882-8",
+    "species": "Raphus cucullatus",
+    "localities": "Mare aux Songes",
+    "contribution": "Reports an in-situ dodo assemblage and associated taphonomic interpretation.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0009",
+    "citation": "Rijsdijk, K.F. et al. (2015). A review of the dodo and its ecosystem: insights from a vertebrate concentration Lagerstätte in Mauritius. Journal of Vertebrate Paleontology 35(Suppl. 1):3–20.",
+    "year": 2015,
+    "doi/link": "10.1080/02724634.2015.1113803",
+    "species": "Raphus cucullatus; Mauritian vertebrate ecosystem",
+    "localities": "Mare aux Songes; Mauritius",
+    "contribution": "Synthesis of the dodo ecosystem, Mare aux Songes, and key historical dodo material.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0010",
+    "citation": "Hume, J.P. & Prys-Jones, R.P. (2005). New discoveries from old sources, with reference to the original bird and mammal fauna of the Mascarene Islands, Indian Ocean. Zoologische Mededelingen 79:85–95.",
+    "year": 2005,
+    "doi/link": "https://repository.naturalis.nl/pub/210798",
+    "species": "Historical Mascarene birds and mammals; museum provenance",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Collection-history source on misidentification, exchanges, provenance and archival correspondence.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0011",
+    "citation": "Hume, J.P. (2005). Contrasting taphofacies in ocean island settings: the fossil record of Mascarene vertebrates.",
+    "year": 2005,
+    "doi/link": "\"In ALCOVER, J .A. & BOVER, P.\n(eds.): Proceedings of the International Symposium \"\"Insular Vertebrate Evolution: the Palaeontological Approach': Monografies de la\nSocietat d'Història Natural de les Balears, 12: 129-14\"",
+    "species": "Mascarene vertebrate taphonomy",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Comparative taphonomic discussion and collection information for Mascarene fossil vertebrates.",
+    "source_type": "Conference/monograph contribution"
+  },
+  {
+    "publication_id": "MAS-PUB-0012",
+    "citation": "Hume, J.P., Cheke, A.S. & McOran-Campbell, A. (2009). How Owen ‘stole’ the Dodo: academic rivalry and disputed rights to a newly-discovered subfossil deposit in nineteenth century Mauritius. Historical Biology 21(1–2):33–49.",
+    "year": 2009,
+    "doi/link": "10.1080/08912960903101868",
+    "species": "Raphus cucullatus; history of collecting",
+    "localities": "Mare aux Songes; Mauritius",
+    "contribution": "Detailed history of the 1865 Mare aux Songes discovery and movement of early dodo material.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0013",
+    "citation": "Hume, J.P. & Cheke, A.S. (2004). The white dodo of Réunion Island: unravelling a scientific and historical myth. Archives of Natural History 31(1):57–79.",
+    "year": 2004,
+    "doi/link": "10.3366/anh.2004.31.1.57",
+    "species": "Historical 'white dodo' / Réunion bird identity",
+    "localities": "Réunion; Mauritius",
+    "contribution": "Important for resolving historical taxonomic and iconographic confusion.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0014",
+    "citation": "Hume, J.P. (2011). Systematics, morphology, and ecology of pigeons and doves (Aves: Columbidae) of the Mascarene Islands, with three new species. Zootaxa 3124:1–62.",
+    "year": 2011,
+    "doi/link": "10.11646/zootaxa.3124.1.1",
+    "species": "Mascarene Columbidae",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Major taxonomic treatment based partly on subfossil remains; useful for specimen and synonym extraction.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0015",
+    "citation": "Austin, J.J. & Arnold, E.N. (2001). Ancient mitochondrial DNA and morphology elucidate an extinct island radiation of Indian Ocean giant tortoises (Cylindraspis). Proceedings of the Royal Society B 268:2515–2523.",
+    "year": 2001,
+    "doi/link": "10.1098/rspb.2001.1825",
+    "species": "Cylindraspis spp.",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Key ancient-DNA paper with specimen registration numbers and type specimens.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0016",
+    "citation": "Hume, J.P., Steel, L., André, A.A. & Meunier, A. (2015). In the footsteps of the bone collectors: nineteenth-century cave exploration on Rodrigues Island, Indian Ocean. Historical Biology, 27(2): 265–286.",
+    "year": 2015,
+    "doi/link": "10.1080/08912963.2014.886203",
+    "species": "Pezophaps solitaria; Rodrigues cave fauna; collection history",
+    "localities": "Rodrigues caves; Plaine Corail",
+    "contribution": "Reconstructs nineteenth-century cave collecting and present repositories; includes historical collection tables.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0017",
+    "citation": "Hume, J.P., Griffiths, O., André, A.A., Meunier, A. & Bour, R. (2021). Discovery of the first Mascarene giant tortoise nesting site on Rodrigues Island, Indian Ocean (Testudinidae: Cylindraspis). Herpetology Notes 14:103–116.",
+    "year": 2021,
+    "doi/link": "https://www.biotaxa.org/hn/article/view/62722",
+    "species": "Cylindraspis peltastes; Cylindraspis vosmaeri",
+    "localities": "Rodrigues; Plaine Corail",
+    "contribution": "Documents a fossil nesting site and provides context for Rodrigues giant-tortoise material.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0018",
+    "citation": "Claessens, L.P.A.M. & Hume, J.P. (2015). Provenance and history of the Thirioux dodos. Journal of Vertebrate Paleontology 35(Suppl. 1):21–28.",
+    "year": 2015,
+    "doi/link": "10.1080/02724634.2015.1111896",
+    "species": "Raphus cucullatus; Thirioux dodos",
+    "localities": "Le Pouce area, Mauritius",
+    "contribution": "Essential provenance/history source for the two most complete associated dodo skeletons.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0019",
+    "citation": "Claessens, L.P.A.M., Meijer, H.J.M. & Hume, J.P. (2015). The morphology of the Thirioux dodos. Journal of Vertebrate Paleontology 35(Suppl. 1):29–187.",
+    "year": 2015,
+    "doi/link": "10.1080/02724634.2015.1121723",
+    "species": "Raphus cucullatus; Thirioux dodo osteology",
+    "localities": "Mauritius",
+    "contribution": "Detailed osteological treatment of the Port Louis and Durban Thirioux skeletons.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0020",
+    "citation": "Newton, E. & Gadow, H. (1893). On additional Bones of the Dodo and other Extinct Birds of Mauritius obtained by Mr. Theodore Sauzier. Transactions of the Zoological Society of London 13:281–302.",
+    "year": 1893,
+    "doi/link": "10.1111/j.1469-7998.1893.tb00001.x",
+    "species": "Raphus cucullatus; extinct Mauritian birds; Sauzier material",
+    "localities": "Mauritius; Mare aux Songes",
+    "contribution": "Original historical descriptions and figures of Sauzier-collected fossil material.",
+    "source_type": "Historical article"
+  },
+  {
+    "publication_id": "MAS-PUB-0021",
+    "citation": "Günther, A. & Newton, E. (1879). The extinct birds of Rodriguez. Philosophical Transactions of the Royal Society of London 168:423–437.",
+    "year": 1879,
+    "doi/link": "10.1098/rstl.1879.0043 http://field.biodiversitylibrary.org/page/23850760",
+    "species": "Pezophaps solitaria; extinct Rodrigues birds and reptiles",
+    "localities": "Rodrigues caves",
+    "contribution": "Original source for several extinct Rodrigues taxa and historical specimen material.",
+    "source_type": "Historical article"
+  },
+  {
+    "publication_id": "MAS-PUB-0022",
+    "citation": "Newton, A. (1875). Additional evidence as to the original fauna of Rodriguez. Proceedings of the Zoological Society of London 1875:39–43.",
+    "year": 1875,
+    "doi/link": "10.1111/j.1469-7998.1875.tb00523.x http://www.biodiversitylibrary.org/page/28501192",
+    "species": "Original Rodrigues fauna",
+    "localities": "Rodrigues",
+    "contribution": "Early primary source on the Rodrigues subfossil fauna.",
+    "source_type": "Historical article"
+  },
+  {
+    "publication_id": "MAS-PUB-0023",
+    "citation": "Newton, A. & Newton, E. (1876). On the Psittaci of the Mascarene Islands. Ibis, series 3, 6:281–289.",
+    "year": 1876,
+    "doi/link": "10.1111/j.1474-919X.1876.tb06925.x http://www.biodiversitylibrary.org/page/28501578",
+    "species": "Mascarene parrots",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Early synthesis useful for historical names and parrot specimen interpretation.",
+    "source_type": "Historical article"
+  },
+  {
+    "publication_id": "MAS-PUB-0024",
+    "citation": "Newton, E. (1861). Ornithological Notes from Mauritius. Ibis 3:180–182 and 270–277.",
+    "year": 1861,
+    "doi/link": "http://www.biodiversitylibrary.org/page/8607430",
+    "species": "Mauritian birds; historical observations",
+    "localities": "Mauritius",
+    "contribution": "Historical baseline for Mauritian birds and nineteenth-century collecting context.",
+    "source_type": "Historical article"
+  },
+  {
+    "publication_id": "MAS-PUB-0025",
+    "citation": "Janoo, A. (1996). On a hitherto undescribed dodo cranium, Raphus cucullatus L. (Aves, Columbiformes), with a brief taxonomical overview of this extinct flightless Mascarene Island bird.  Bulletin du Muséum national d'Histoire naturelle (4ème série – section C – Sciences de la Terre, PALÉONTOLOGIE, GÉOLOGIE, MINÉRALOGIE 18 (4) - PAGES 57-77",
+    "year": 1996,
+    "doi/link": "https://sciencepress.mnhn.fr/en/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-c-sciences-de-la-terre-paleontologie-geologie-mineralogie/18/4/propos-d-un-crane-inedit-du-dronte-raphus-cucullatus-aves-columbiformes-avec-un-bref-apercu-taxonomique-sur-cet",
+    "species": "Raphus cucullatus; dodo cranium",
+    "localities": "Mauritius",
+    "contribution": "Potentially important specimen-level source centred on a dodo cranium.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0026",
+    "citation": "Mourer-Chauviré, C., Bour, R., Moutou, F. & Ribes, S. (1994). Mascarenotus nov. gen. (Aves: Strigiformes), genre endémique éteint des Mascareignes et M. grucheti n. sp., espèce éteinte de La Réunion. Comptes Rendus de l'Académie des Sciences, Série II 318:1699–1706.",
+    "year": 1994,
+    "doi/link": "https://www.researchgate.net/publication/292824343_Mascarenotus_nov_gen_Aves_Strigiformes_extinct_endemic_genus_from_the_Mascarene_Islands_and_M_grucheti_nsp_extinct_species_from_La_Reunion",
+    "species": "Mascarenotus grucheti; Mascarene owls",
+    "localities": "Réunion; Mascarenes",
+    "contribution": "Original description of an extinct Mascarene owl genus/species.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0027",
+    "citation": "Hume, J.P. (2006). The history of the Dodo Raphus cucullatus and the penguin of Mauritius. Historical Biology 18(2):69–93.",
+    "year": 2006,
+    "doi/link": "10.1080/08912960600639400",
+    "species": "Raphus cucullatus; historical accounts",
+    "localities": "Mauritius",
+    "contribution": "Historical synthesis of dodo records and interpretation.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0028",
+    "citation": "Hume, J.P. (2003). The journal of the flagship Gelderland: Dodo and other birds on Mauritius 1601. Archives of Natural History 30(1):13–27.",
+    "year": 2003,
+    "doi/link": "10.3366/anh.2003.30.1.13",
+    "species": "Raphus cucullatus; early Mauritian bird observations",
+    "localities": "Mauritius",
+    "contribution": "Primary-document analysis of early observations of the dodo and other birds.",
+    "source_type": "Peer-reviewed article"
+  },
+  {
+    "publication_id": "MAS-PUB-0029",
+    "citation": "Hachisuka, M. (1953). The Dodo and Kindred Birds, or the Extinct Birds of the Mascarene Islands. H.F. & G. Witherby, London.",
+    "year": 1953,
+    "doi/link": "10.1017/cbo9781139924405.007",
+    "species": "Extinct Mascarene birds",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Classic monograph compiling extinct Mascarene birds and historical collection information.",
+    "source_type": "Monograph"
+  },
+  {
+    "publication_id": "MAS-PUB-0030",
+    "citation": "Cowles, G.S. (1987). The Fossil Record. In A.W. Diamond (ed.), Studies of Mascarene Island Birds, pp. 90–100. Cambridge University Press.",
+    "year": 1987,
+    "doi/link": "10.1017/CBO9780511735769",
+    "species": "Mascarene fossil bird record",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Pre-Hume synthesis of the Mascarene fossil bird record.",
+    "source_type": null
+  },
+  {
+    "publication_id": "MAS-PUB-0031",
+    "citation": "Cheke, A.S. & Hume, J.P. (2008). Lost Land of the Dodo: The Ecological History of Mauritius, Réunion and Rodrigues. T. & A.D. Poyser.",
+    "year": 2008,
+    "doi/link": "https://www.bloomsbury.com/uk/lost-land-of-the-dodo-9781408133057/",
+    "species": "Mascarene ecological and extinction history",
+    "localities": "Mauritius; Rodrigues; Réunion",
+    "contribution": "Major modern synthesis with extensive historical and ecological context.",
+    "source_type": "Monograph"
+  },
+  {
+    "publication_id": "MAS-PUB-0032",
+    "citation": "Gônet, J. et al. (2023). Locomotor and postural diversity among reptiles viewed through the prism of femoral microanatomy: Palaeobiological implications for some Permian and Mesozoic taxa",
+    "year": 2023,
+    "doi/link": "10.1111/joa.13833",
+    "species": "Raphus cucullatus; Pezophaps solitaria; CT/femoral data",
+    "localities": "Mauritius; Rodrigues",
+    "contribution": "Published comparative dataset includes YPM 2064 dodo and YPM 1154 Solitaire specimens.",
+    "source_type": "Peer-reviewed article"
+  }
+]

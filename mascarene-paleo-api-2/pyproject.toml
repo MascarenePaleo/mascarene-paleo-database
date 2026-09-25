@@ -1,0 +1,10 @@
+[project]
+name = "mascarene-paleo-api"
+version = "0.4.0"
+description = "Read-only API and interactive explorer for the Mascarene Paleo Framework database"
+requires-python = ">=3.10"
+dependencies = ["fastapi[standard]>=0.141,<0.142"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

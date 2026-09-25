@@ -1,0 +1,72 @@
+[
+  {
+    "question_id": "MAS-Q-0001",
+    "species_id": "MAS-TAX-0033",
+    "locality_id": "MAS-LOC-0008",
+    "question": "Is UMZC 575 the missing holotype of Necropsittacus rodericanus described by Milne-Edwards (1867)?",
+    "category": "Identification",
+    "evidence": "Hume (2007) states that UMZC 575 matches the description and drawing, but confirming data are lacking.",
+    "priority": "High",
+    "status": "Open"
+  },
+  {
+    "question_id": "MAS-Q-0002",
+    "species_id": "MAS-TAX-0002",
+    "locality_id": "MAS-LOC-0004",
+    "question": "Are the CT volumes and segmented 3D models for UMZC 415.R, 643 and 647 publicly archived, and if so under which repository IDs and licence?",
+    "category": "Repository",
+    "evidence": "Citron et al. (2026) used these UMZC Solitaire specimens in a CT/endocast dataset; public model availability was not verified here.",
+    "priority": "Medium",
+    "status": "Open"
+  },
+  {
+    "question_id": "MAS-Q-0003",
+    "species_id": null,
+    "locality_id": null,
+    "question": "Can UMZC provide a current export of all Mascarene vertebrate records, including records or corrections made after the 2019 VertNet/GBIF dataset version?",
+    "category": "Repository",
+    "evidence": "The official published UMZC vertebrate dataset is Version 6.1 (2019); Julian Hume has indicated that existing species lists may require updating.",
+    "priority": "High",
+    "status": "Open"
+  },
+  {
+    "question_id": "MAS-Q-0004",
+    "species_id": "MAS-TAX-0034",
+    "locality_id": "MAS-LOC-0007",
+    "question": "Confirm the exact catalogue partition, type status and associated elements of the UMZC 577 series (including 577a and 577b) in the current UMZC catalogue.",
+    "category": "Identification",
+    "evidence": "Hume (2007) discusses 577a as holotype, 577b as paratype, and additional elements under UMZC 577.",
+    "priority": "Medium",
+    "status": "Open"
+  },
+  {
+    "question_id": "MAS-Q-0005",
+    "species_id": "MAS-TAX-0012",
+    "locality_id": "MAS-LOC-0005",
+    "question": "What are the exact collecting localities and collection histories for UMZC 579 and UMZC 303BB Aphanapteryx bonasia?",
+    "category": "Provenance",
+    "evidence": "Hume (2019) figures these UMZC specimens, but the exact collection locality was not established from the sources checked here.",
+    "priority": "Medium",
+    "status": "Open"
+  },
+  {
+    "question_id": "MAS-Q-0006",
+    "species_id": "MAS-TAX-0002",
+    "locality_id": "MAS-LOC-0002",
+    "question": "Do PV A 3505 and PV A 3507 refer to the same specimen/lot, or are they distinct catalogue entries?",
+    "category": "Catalogue ambiguity",
+    "evidence": "Hume & Steel (2013) figure PV A 3507 with a description matching the NHMUK record associated with PV A 3505/3507; the catalogue relationship remains unresolved.",
+    "priority": null,
+    "status": "Open"
+  },
+  {
+    "question_id": "MAS-Q-0007",
+    "species_id": null,
+    "locality_id": null,
+    "question": "Can the 147 NHMUK specimen records whose supplied identification is only 'Quaternary' or 'Quaternary, Pleistocene' be assigned to biological taxa from the original catalogue or specimen records?",
+    "category": "Taxonomic identification",
+    "evidence": "The supplied NHMUK extract contains stratigraphic text in place of a usable taxonomic identification for these records; species_id has therefore been left blank rather than inferred.",
+    "priority": "High",
+    "status": "Open"
+  }
+]

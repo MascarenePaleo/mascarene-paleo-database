@@ -1,0 +1,27 @@
+{
+  "dataset_version": "0.4",
+  "source_file": "Mascarene_Palaeo_Core_Database_v0.4_DwC_integrated.xlsx",
+  "specimens": 302,
+  "taxa_unique": 30,
+  "taxa_rows_in_workbook": 30,
+  "localities": 9,
+  "publications": 32,
+  "sources": 10,
+  "record_source_links": 324,
+  "unresolved_questions": 7,
+  "darwin_core_occurrences": 302,
+  "specimens_with_resolved_taxon_id": 155,
+  "specimens_without_taxon_id": 147,
+  "basis_of_record": {
+    "FossilSpecimen": 284,
+    "MaterialCitation": 18
+  },
+  "repositories": {
+    "Natural History Museum, London (NHMUK)": 284,
+    "University Museum of Zoology, Cambridge (UMZC)": 18
+  },
+  "islands": {
+    "Mauritius": 252,
+    "Rodrigues": 50
+  }
+}
