@@ -1,0 +1,49 @@
+﻿source_sheet,source_field,darwin_core_term,dwc_class,fit,export_rule,status,notes
+Specimens,specimen_id,occurrenceID,Occurrence,exact,direct,exported,Canonical Mascarene Paleo specimen identifier; retain unchanged in the frozen dataset.
+Specimens,specimen_id,materialEntityID,MaterialEntity,exact,direct,exported,Same local persistent identifier used for the represented specimen/material entity.
+Specimens,species_id,taxonID,Taxon,exact,direct,exported,Foreign key to Taxa_species.
+Specimens,repository,institutionCode,Record-level,partial,derive NHMUK/UMZC from repository string,exported,Do not replace the human-readable repository field in the canonical database.
+Specimens,catalogue_number,catalogNumber,MaterialEntity,exact,direct,exported,Keep catalogue number verbatim.
+Specimens,element,materialEntityType,MaterialEntity,partial,direct free-text anatomical description,exported,Current Darwin Core includes materialEntityType; values are not yet normalized to a controlled vocabulary.
+Specimens,locality_id,locationID,Location,exact,direct,exported,Foreign key to Localities.
+Specimens,provenance,occurrenceRemarks,Occurrence,partial,direct,exported,"Preserves museum/literature provenance text without parsing it into inferred dates, collectors, sex or stratigraphy."
+Specimens,evidence_confidence,dynamicProperties,Record-level,partial,JSON key evidenceConfidence,exported,Mascarene Paleo-specific confidence grade; no direct DwC equivalent.
+Specimens,photograph_available,dynamicProperties,Record-level,partial,JSON key photographAvailable,exported,Boolean/status retained as structured supplementary metadata.
+Specimens,photograph_source,associatedReferences,Occurrence,partial,append URL to source references,exported,Landing/reference pages are not treated as direct associatedMedia unless verified as media resources.
+Specimens,3d_available,dynamicProperties,Record-level,partial,JSON key threeDAvailable,exported,Availability status only.
+Specimens,3d_repository,associatedMedia,Occurrence,partial,export only if a stable media URL exists,not currently populated,No current rows provide a usable 3D repository URL.
+Specimens,3d_id,associatedMedia,Occurrence,partial,combine with repository only when resolvable,not currently populated,Identifier alone is insufficient for associatedMedia.
+Specimens,notes,materialEntityRemarks,MaterialEntity,exact,direct,exported,Notes about the represented specimen/material entity.
+Specimens,record_provenance_class,basisOfRecord,Record-level,derived,Direct museum record→FossilSpecimen; Literature-derived→MaterialCitation,exported,Central provenance crosswalk.
+Specimens,primary_source_id,associatedReferences,Occurrence,partial,join through Sources.source_url; supplemented by Record_sources,exported,Source IDs themselves remain in dynamicProperties/source tables.
+Taxa_species,species_id,taxonID,Taxon,exact,join via species_id,exported,Local taxon identifier.
+Taxa_species,accepted_name,scientificName,Taxon,exact,join via species_id,exported,Accepted name used in the occurrence view.
+Taxa_species,authority,scientificNameAuthorship,Taxon,exact,join via species_id,exported,Preserved as stored; no automated authority normalization.
+Taxa_species,original_name,originalNameUsage,Taxon,partial,join via species_id,exported,Used only as stored; does not imply original specimen identification.
+Taxa_species,synonyms,Taxon synonym rows,Taxon,partial,retain in dynamicProperties until names are normalized as separate usages,not normalized,A standards-complete taxon export would expand synonyms into separate name-usage rows.
+Taxa_species,group,higherClassification,Taxon,partial,join via species_id,exported,Sparse; preserve exact stored hierarchy string.
+Taxa_species,island,Distribution extension / dynamicProperties,Taxon,partial,JSON key taxonIsland,exported as dynamicProperties,"Occurrence geography comes from Localities, not this taxon-level field."
+Taxa_species,extinction_status,Species profile / dynamicProperties,Taxon,partial,JSON key extinctionStatus,exported as dynamicProperties,No simple core DwC field used here.
+Taxa_species,evidence_confidence,dynamicProperties,Record-level,partial,JSON key taxonEvidenceConfidence,exported,Framework-specific evidence grade.
+Taxa_species,notes,taxonRemarks,Taxon,exact,join via species_id,exported,Taxonomic notes retained.
+Localities,locality_id,locationID,Location,exact,join via locality_id,exported,Local locality identifier.
+Localities,locality_name,locality,Location,exact,join via locality_id,exported,Standardized locality name.
+Localities,island,island,Location,exact,join via locality_id,exported,Also used to derive country/countryCode conservatively.
+Localities,island,country; countryCode,Location,derived,Mauritius/Rodrigues→Mauritius/MU; Réunion→Réunion/RE,exported,"Country derives from political geography of the island, not from free text."
+Localities,island,islandGroup,Location,derived,constant Mascarene Islands,exported,Dataset scope makes this safe.
+Localities,latitude,decimalLatitude,Location,exact,join via locality_id,exported when present,Currently no locality coordinates are populated.
+Localities,longitude,decimalLongitude,Location,exact,join via locality_id,exported when present,Currently no locality coordinates are populated.
+Localities,elevation,verbatimElevation / min-max elevation,Location,partial,requires normalization before numeric export,not normalized,Do not infer numeric elevation from free text.
+Localities,locality_type,dynamicProperties,Location,partial,JSON key localityType,exported,Bespoke classification retained.
+Localities,geological_setting,dynamicProperties,GeologicalContext,partial,JSON key geologicalSetting,exported,Free text retained rather than forced into a geological term.
+Localities,sediment,dynamicProperties,GeologicalContext,partial,JSON key sediment,exported,Free text retained.
+Localities,age,earliestEpochOrLowestSeries; latestEpochOrHighestSeries,GeologicalContext,partial,only explicit Holocene/Pleistocene tokens standardized; full value retained as verbatimAge,exported conservatively,No parsing of specimen provenance text.
+Localities,dating_method,dynamicProperties,GeologicalContext,partial,JSON key datingMethod,exported,No direct core term chosen.
+Localities,stratigraphic_information,lithostratigraphicTerms / dynamicProperties,GeologicalContext,partial,retain verbatim in JSON unless formally normalized,exported as dynamicProperties,"Current values include narrative uncertainty, so they are not forced into lithostratigraphicTerms."
+Localities,confidence,dynamicProperties,Record-level,partial,JSON key localityConfidence,exported,Framework-specific confidence grade.
+Localities,notes,locationRemarks,Location,exact,join via locality_id,exported,Locality notes retained.
+Sources,source_id,associatedReferences support,Occurrence / Dublin Core,partial,join through Record_sources,exported indirectly,Local provenance ID retained in dynamicProperties sourceIDs.
+Sources,source_url,associatedReferences,Occurrence,exact,join through Record_sources,exported,Multiple references separated with ' | '.
+Record_sources,record_id + source_id,associatedReferences,Occurrence,relational,many-to-many join,exported,This junction table is the preferred provenance mechanism.
+Publications,all fields,BibliographicResource / References extension,BibliographicResource,partial,retain canonical Publications table,not flattened into occurrence export,A separate bibliographic extension can be added later if needed.
+Unresolved_questions,all fields,no direct DwC equivalent,—,none,retain canonical unresolved-question register,not flattened,This table is intentionally outside DwC and is part of the framework's richer uncertainty model.
