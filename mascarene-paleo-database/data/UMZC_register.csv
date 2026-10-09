@@ -1,0 +1,167 @@
+﻿candidate_id,query_id,umzc_catalogue_number,taxon_as_catalogued,accepted_species_id,accepted_name,element,type_status,locality_verbatim,locality_id,collector,collecting_date,stratigraphy,preparation,image_available,catalogue_url,duplicate_check,verification_status,promoted_to_master,master_specimen_id,notes
+1,CAM-Q-0001,UMZC [317.d],,,Fregata minor or ariel,,,"Mauritius, Cannonier's Point",,W.H. Power,13-02-1865,,,YES,,No duplicate,Rejected,No,,Sternum + pectoral girdle. Single Unit. Male --Extant
+2,CAM-Q-0001,UMZC [317.e],,,Fregata minor or ariel,,,"Mauritius, Cannonier's Point",,W.H. Power,14-02-1865,,,YES,,No duplicate,Rejected,No,,Pelvis. Female --Extant
+3,CAM-Q-0001,UMZC [489.f],Hypsipetes borbonicus olivaceus,,Mauritius BULBUL,,,Maurittius,,-,1866,,,YES,,No duplicate,Rejected,No,,Sternum + pectoral girdle. Single Unit -- Extant
+4,CAM-Q-0001,UMZC [543.e],Phaethon lepturus,,"White tailed tropic bird, Paille en queu",,,"Mauritius, Baie du Cap; Savanne",,A.Barnett,05-10-1860,,,YES,,No duplicate,Rejected,No,,Sternum + pectoral girdle. Single Unit. Male -- Extant
+5,CAM-Q-0001,UMZC [544.a],Porphyrio madagascariensis,,African Swamphen,,,"Mauritius, Mapou",,E.Newton,10-08-1860,,,YES,,No duplicate,Rejected,No,,Sternum + pectoral girdle. Single Unit. Female --Extant
+6,CAM-Q-0001,UMZC [558.a],Francolinus pinntadeanus,,Chinese francolin,,,"Mauritius, St Martin; Savanne",,E.Newton,29-09-1860,,,YES,,No duplicate,Rejected,No,,Sternum + pectoral girdle. Single Unit. Male
+7,CAM-Q-0001,UMZC [655.a],Nesoenas meyeri,,Pink Pigeon,,,Mauritius,,-,1866,,,YES,,No duplicate,Rejected,No,,Sternum + pectoral girdle (incomplete). Single Unit
+8,CAM-Q-0001,UMZC [655.b],Nesoenas meyeri,,Pink Pigeon,,,"Mauritius,Near Grand Bassin",,E.Newton,12-07-1864,,,YES,,Not checked,Unverified,,,Sternum + pectoral girdle. Single Unit. Female
+9,CAM-Q-0001,UMZC [740.b],,,Charadrius leschenaultii,,,"Mauritius, Cannonier's Point",,W.H. Power,23-02-1864,,,YES,,Not checked,Unverified,,,Sternum + pectoral girdle. Single Unit. Female
+10,CAM-Q-0001,UMZC 10/Fre/1/e/1,"Fregata minor (Gmelin, 1789)",,Great frigatebird,,,"Mauritius, Cannonier's Point",,W.H. Power,13/02/1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+11,CAM-Q-0001,UMZC 10/Phae/1/b/1,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,"Mauritius, Round Island",,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+12,CAM-Q-0001,UMZC 10/Phae/1/b/2,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,Mauritius,,I. Legentil,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+13,CAM-Q-0001,UMZC 10/Phae/1/b/3,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,"Mauritius, Vacoa",,E. Newton,06-04-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+14,CAM-Q-0001,UMZC 10/Phae/1/b/4,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,"Mauritius, Baie du Cap",,A. Barnett,05-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+15,CAM-Q-0001,UMZC 10/Phae/1/b/5,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,"Mauritius, Pailles",,E. Newton,06-1861,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+16,CAM-Q-0001,UMZC 10/Phae/1/b/6,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,"Mauritius, Cannonier's Point",,W.H. Power,1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+17,CAM-Q-0001,UMZC [1008.a],"Haliastur indus (Boddaert, 1783)",,Brahminy kite,,,Mauritius,,E. Newton,21-12-1872,,,YES,,Not checked,Unverified,,,Sternum + pectoral girdle + pelvis. Single Unit. Female
+18,CAM-Q-0001,UMZC 9/Pro/12/k/1,"Puffinus Iherminieri bailloni (Bonaparte, 1857)",,Audubon's shearwater,,,"Mauritius, Plaine Wilhelm",,C. Barclay,08-06-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single. Female
+19,CAM-Q-0001,UMZC 10/Phae/1/b/7,"Phaethon lepturus lepturus Daudin, 1802",,White tailed tropicbird,,,Mauritius,,A. Strickland,13-11-1833,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+20,CAM-Q-0001,UMZC 10/Phae/1/c/1,"Phaethon rubricauda rubricauda Boddaert, 1783",,Red tailed tropicbird,,,"Mauritius, Round Island",,M. Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+21,CAM-Q-0001,UMZC 10/Phae/1/c/2,"Phaethon rubricauda rubricauda Boddaert, 1783",,Red tailed tropicbird,,,"Mauritius, Round Island",,M. Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+22,CAM-Q-0001,UMZC 9/Pro/12/k/2,"Puffinus Iherminieri bailloni (Bonaparte, 1857)",,Audubon's shearwater,,,"Mauritius, Coromandel",,E. Newton,29-08-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single. Female
+23,CAM-Q-0001,UMZC 9/Pro/12/k/3,"Puffinus Iherminieri bailloni (Bonaparte, 1857)",,Audubon's shearwater,,,"Mauritius, Coromandel",,E. Newton,25-08-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single. Female
+24,CAM-Q-0001,UMZC 10/Phae/1/c/3,"Phaethon rubricauda rubricauda Boddaert, 1783",,Red tailed tropicbird,,,"Mauritius, Round Island",,E. Newton,03-11-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+25,CAM-Q-0001,UMZC 9/Pro/12/o/1,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Rodriguez ",,M.B.S Lloyd ,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+26,CAM-Q-0001,UMZC 9/Pro/12/o/2,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Round Island ",,E. Newton,04-11-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+27,CAM-Q-0001,UMZC 9/Pro/12/o/3,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Gunner's Quoin",,W.H. Power,10-11-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+28,CAM-Q-0001,UMZC 9/Pro/12/o/4,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Gunner's Quoin",,W.H. Power,10-11-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+29,CAM-Q-0001,UMZC 9/Pro/12/o/5,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Gunner's Quoin",,W.H. Power,10-11-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+30,CAM-Q-0001,UMZC 9/Pro/12/o/6,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Gunner's Quoin",,W.H. Power,10-11-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+31,CAM-Q-0001,UMZC 9/Pro/12/o/7,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Pailles",,-,11-1868,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+32,CAM-Q-0001,UMZC 9/Pro/12/o/8,"Ardenna pacifica chlororhyncus (Lesson, 1831)",,"Wedge tailed shearwater, Puffin du Pacifique ",,,"Mauritius, Pailles",,-,11-1868,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+33,CAM-Q-0001,UMZC 10/Phae/1/c/4,"Phaethon rubricauda rubricauda Boddaert, 1783",,Red tailed tropicbird,,,"Mauritius, Cannonier's Point",,W.H. Tower,10-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+34,CAM-Q-0001,UMZC 10/Phae/1/c/5,"Phaethon rubricauda subsp. ? Boddaert, 1783",,Red tailed tropicbird,,,Mauritius ?,,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+35,CAM-Q-0001,UMZC 10/Phae/1/c/6,"Phaethon rubricauda subsp. ? Boddaert, 1783",,Red tailed tropicbird,,,Mauritius ?,,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+36,CAM-Q-0001,UMZC 10/Phae/1/c/19,"Phaethon rubricauda subsp. ? Boddaert, 1783",,Red tailed tropicbird,,,[Mauritius],,,1897,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+37,CAM-Q-0001,UMZC 10/Sul/2/e/1,"Sula sula (Linnaeus, 1766)",,Red footed booby,,,"Mauritius, Rodriguez (? or Round Island)",,M. Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+38,CAM-Q-0001,UMZC 10/Sul/2/e/2,"Sula sula (Linnaeus, 1766)",,Red footed booby,,,"Mauritius, Rodriguez (? or Round Island)",,M. Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+39,CAM-Q-0001,UMZC 11/Ard/3/d/1,"Ardeola ralloides (Scopoli, 1769)",,Squacco heron,,,"Mauritius, Flat Island",,Wheldon,05-1872,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+40,CAM-Q-0001,UMZC 11/Ard/6/b/1,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, Flat Island",,,28-09-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+41,CAM-Q-0001,UMZC 11/Ard/6/b/2,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, St. Martin",,,28-09-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+42,CAM-Q-0001,UMZC 11/Ard/6/b/3,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, St. Martin",,,16-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+43,CAM-Q-0001,UMZC 11/Ard/6/b/4,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, Bel Ombre",,,16-06-1862 ,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+44,CAM-Q-0001,UMZC 11/Ard/6/b/5,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, Bel Ombre",,,18-06-1862 ,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+45,CAM-Q-0001,UMZC 11/Ard/6/b/8,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, Flacq",,W.H. Tower,23-09-1865 ,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+46,CAM-Q-0001,UMZC 11/Ard/6/b/10,"Butorides striata javanica (Horsfield, 1821)",,Striated heron,,,"Mauritius, Baie du Cap",,W. Telfair,29-09-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+47,CAM-Q-0001,UMZC 14/Pha/22/bb/2,"Francolinus pintadeanus (Scopoli, 1786)",,Chinese francolin,,,"Mauritius, Bel Ombre",,,14-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+48,CAM-Q-0001,UMZC 14/Pha/22/bb/3,"Francolinus pintadeanus (Scopoli, 1786)",,Chinese francolin,,,"Mauritius, St. Martin",,E. Newton,28-09-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+49,CAM-Q-0001,UMZC 14/Pha/22/bb/4,"Francolinus pintadeanus (Scopoli, 1786)",,Chinese francolin,,,"Mauritius, Bel Ombre",,,16-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+50,CAM-Q-0001,UMZC 14/Pha/22/bb/5,"Francolinus pintadeanus (Scopoli, 1786)",,Chinese francolin,,,"Mauritius, Bel Ombre",,,16-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+51,CAM-Q-0001,UMZC 14/Pha/22/bb/6,"Francolinus pintadeanus (Scopoli, 1786)",,Chinese francolin,,,"Mauritius, St. Martin",,E. Newton,01-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+52,CAM-Q-0001,UMZC 14/Pha/22/cc/1,"Francolinus pondicerianus (Gmelin, 1789)",,Grey francolin,,,"Mauritius, Vacoa",,E. Newton,20-06-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+53,CAM-Q-0001,UMZC 14/Pha/22/cc/2,"Francolinus pondicerianus (Gmelin, 1789)",,Grey francolin,,,"Mauritius, Cannonier's Point",,W.H. Power,11-03-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+54,CAM-Q-0001,UMZC 14/Pha/22/cc/3,"Francolinus pondicerianus (Gmelin, 1789)",,Grey francolin,,,"Mauritius, St. Martin",,E. Newton,04-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+55,CAM-Q-0001,UMZC 14/Pha/22/cc/4,"Francolinus pondicerianus (Gmelin, 1789)",,Grey francolin,,,"Mauritius, Cannonier's Point",,W.H. Power,19-03-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+56,CAM-Q-0001,UMZC 14/Pha/41/a/1,"Perdicula asiatica (Latham, 1790)",,Jungle bush quail,,,Mauritius,,I. Legentil,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+57,CAM-Q-0001,UMZC 14/Pha/41/a/2,"Perdicula asiatica (Latham, 1790)",,Jungle bush quail,,,Mauritius,,S. Roch,15-08-1863,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+58,CAM-Q-0001,UMZC 15/Ral/19/b/11,"Gallinula chloropus pyrrhorrhoa Newton, A., 1861",,Madagascan common moorhen,,Syntype,"Mauritius, Mapou",,,10-08-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+59,CAM-Q-0001,UMZC 15/Ral/40/b/5,"Porphyrio porphyrio madagascariensis (Latham, 1802)",,Purple swamphen,,,"Mauritius, Mapou",,,10-08-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+60,CAM-Q-0001,UMZC 15/Ral/43/a/2,"Porphyrio alleni (Thomson, 1829)",,Allen's gallinule,,,"[Mauritius], Rodriquez Island",,H.R. Bell,12-1873,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+61,CAM-Q-0001,UMZC 15/Ral/48/k/1,"Hypotaenidia philippensis mellori ? (Mathews, 1912)",,Buff banded rail,,,"Mauritius, Champ de Mars",,A. BarbÃ©,1873,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+62,CAM-Q-0001,UMZC 16/Cha/5/h/1,"Charadrius hiaticula Linnaeus, 1758",,Common ringed plover,,,"Mauritius, Cannioner Point",,W.H. Power,13-12-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+63,CAM-Q-0001,UMZC 16/Cha/5/i/1,Charadrius leschenaultii,,Charadrius leschenaultii,,,"Mauritius, Cannioner Point",,W.H. Power,10-01-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+64,CAM-Q-0001,UMZC 16/Cha/5/i/2,Charadrius leschenaultii,,Charadrius leschenaultii,,,"Mauritius, Cannioner Point",,W.H. Power,14-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+65,CAM-Q-0001,UMZC 16/Cha/5/i/3,Charadrius leschenaultii,,Charadrius leschenaultii,,,Mauritius,,W.H. Power,21-01-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+66,CAM-Q-0001,UMZC 16/Cha/5/i/5,Charadrius leschenaultii,,Charadrius leschenaultii,,,"Mauritius, Au Benitiers",,W.H. Power,10-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+67,CAM-Q-0001,UMZC 16/Cha/5/i/6,Charadrius leschenaultii,,Charadrius leschenaultii,,,"Mauritius, Black River",,W.H. Power,01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+68,CAM-Q-0001,UMZC 16/Cha/26/a/1,"Pluvialis squatarola (Linnaeus, 1758)",,Grey plover,,,"Mauritius, Cannionier's Point",,W.H. Power,21-11-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+69,CAM-Q-0001,UMZC 16/Cha/26/a/2,"Pluvialis squatarola (Linnaeus, 1758)",,Grey plover,,,"Mauritius, Cannionier's Point",,W.H. Power,09-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+70,CAM-Q-0001,UMZC 16/Cha/26/a/3,"Pluvialis squatarola (Linnaeus, 1758)",,Grey plover,,,"Mauritius, Black River",,,1861,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+71,CAM-Q-0001,UMZC 12/Ana/3/aa/2,"Anas melleri Sclater, 1865",,"Meller's Duck, Canard de Meller ",,,"Mauritius, Mare aux Vacoas",,E.Martindale,01-10-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+72,CAM-Q-0001,UMZC 12/Ana/3/aa/3,"Anas melleri Sclater, 1865",,"Meller's Duck, Canard de Meller ",,,"Mauritius, Black River Gorges",,J.I Caldwell,07-11-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+73,CAM-Q-0001,UMZC 12/Ana/3/e/4,"Anas bahamensis Linnaeus, 1758",,White cheeked pintail,,,Mauritius,,-,-,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+74,CAM-Q-0001,UMZC 16/Gla/2/c/4,Glareola maldivarum,,,,,"Mauritius, Cannionier's Point",,W.H. Power,24-12-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+75,CAM-Q-0001,UMZC 13/Acc/6/h/1,"Haliaeetus vociferoides des Murs, 1845",,Madagascar fish eagle,,,"Mauritius, Grand River",,Stokes,1859,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+76,CAM-Q-0001,UMZC 13/Acc/27/a/1,"Haliastur indus (Boddaert, 1783)",,Brahminy kite,,,Mauritius,,E.Newton,21-12-1872,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+77,CAM-Q-0001,UMZC 13/Fal/2/aa/1,"Falco peregrinus calidus Latham,1790",,"Peregrine falcon, Falco pelegrinoides",,,Mauritius,,Colonel Pike,23-12-1870,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+78,CAM-Q-0001,UMZC 13/Fal/2/bb/1,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Maree aux Vacoas",,du Chazal ,14-07-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+79,CAM-Q-0001,UMZC 13/Fal/2/bb/2,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Vacoa",,E. Newton,20-06-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+80,CAM-Q-0001,UMZC 13/Fal/2/bb/3,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Bois Sec",,-,08-11-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+81,CAM-Q-0001,UMZC 13/Fal/2/bb/4,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Vacoa",,E. Newton,20-06-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+82,CAM-Q-0001,UMZC 13/Fal/2/bb/5,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Tamarind Bay",,G. Trouchet,23-02-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+83,CAM-Q-0001,UMZC 13/Fal/2/bb/6,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Baie du Cap",,A. Burnett,05-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+84,CAM-Q-0001,UMZC 13/Fal/2/bb/7,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Vacoa",,E.Newton,06-04-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+85,CAM-Q-0001,UMZC 13/Fal/2/bb/8,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,"Mauritius, Bois Sec",,E. Newton,09-11-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+86,CAM-Q-0001,UMZC 13/Fal/2/bb/9,"Falco punctatus Temminck, 1821",,Mauritius Kestrel ,,,Mauritius,,A. Strickland,1832,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+87,CAM-Q-0001,UMZC 13/Fal/2/l/5,"Falco concolar Temminck, 1825",,Sooty Falcon ,,,"Indian Ocean, Between Mauritius and Madagascar",,A. Strickland,1833,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+88,CAM-Q-0001,UMZC 13/Fal/2/p/1,"Falco eleonorae Gené, 1839",,Eleonora's Falcon,,,"Mauritius, Grand Port",,T. Sauzier,12-1870,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+89,CAM-Q-0001,UMZC 14/Pha/21/b/1,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,"Mauritius, Bel Ombre",,I.L Wildman,18-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+90,CAM-Q-0001,UMZC 14/Pha/21/b/2,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,Mauritius,,I.Legentil,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+91,CAM-Q-0001,UMZC 14/Pha/21/b/3,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,"Mauritius, Bel Ombre",,E.Newton,14-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+92,CAM-Q-0001,UMZC 14/Pha/21/b/4,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,Mauritius,,W.H. Power,1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+93,CAM-Q-0001,UMZC 14/Pha/21/b/5,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,"Mauritius, Bel Ombre",,E. Newton,14-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+94,CAM-Q-0001,UMZC 14/Pha/21/b/6,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,"Mauritius, Bel Ombre",,I.L Wildman,-,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+95,CAM-Q-0001,UMZC 14/Pha/21/b/7,"Synoicus chinensis (Linnaeus, 1766)",,Asian blue quail,,,Mauritius,,W.H. Power,1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+96,CAM-Q-0001,UMZC 14/Pha/22/bb/1,"Francolinus pintadeanus (Scopoli, 1786)",,Chinese Francolin ,,,"Mauritius, Bel Ombre",,-,14-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+97,CAM-Q-0001,UMZC 16/Lar/1/b/1,,,Anous stolidus pileatus,,,"Mauritius, Round Island ",,T. Lloyd ,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+98,CAM-Q-0001,UMZC 16/Lar/1/b/2,,,Anous stolidus pileatus,,,"Mauritius, Cannionier's Point",,W.H. Power,20-01-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+99,CAM-Q-0001,UMZC 16/Lar/1/b/3,,,Anous stolidus pileatus,,,"Mauritius, Cannionier's Point",,W.H. Power,23-01-1865,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+100,CAM-Q-0001,UMZC 16/Lar/15/i/1,,,Sterna fuscata nubilosa,,,Mauritius,,Stokes,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+101,CAM-Q-0001,UMZC 16/Lar/15/i/2,,,Sterna fuscata nubilosa,,,"Mauritius, Cannionier's Point",,W.W.R Kerr,06-1861,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+102,CAM-Q-0001,UMZC 16/Lar/15/i/4,,,Sterna fuscata nubilosa,,,"Mauritius, Rodriguez ",,M.B.S Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+103,CAM-Q-0001,UMZC 16/Lar/16/b/2,,,Thalasseus bergii thalassina,,,"Mauritius, Round Island",,M.B.S Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+104,CAM-Q-0001,UMZC 16/Sco/1/a/3,"Actitis hypoleucos Linnaeus, 1758",,Common Sandpiper ,,,"Mauritius, Mouth of Black River ",,W.H. Power,13-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+105,CAM-Q-0001,UMZC 16/Sco/4/a/1,"Arenaria interpres (Linnaeus, 1758)",,Ruddy turnstone ,,,"Mauritius, Rodriguez Island ",,M. Lloyd,1845,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+106,CAM-Q-0001,UMZC 16/Sco/4/a/2,"Arenaria interpres (Linnaeus, 1758)",,Ruddy turnstone ,,,"Mauritius, Case Noyale Bay",,W.H. Power,18-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+107,CAM-Q-0001,UMZC 16/Sco/4/a/3,"Arenaria interpres (Linnaeus, 1758)",,Ruddy turnstone ,,,"Mauritius, Case Noyale Bay",,W.H. Power,18-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+108,CAM-Q-0001,UMZC 16/Sco/4/a/5,"Arenaria interpres (Linnaeus, 1758)",,Ruddy turnstone ,,,"Mauritius, Case Noyale Bay",,W.H. Power,14-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+109,CAM-Q-0001,UMZC 16/Sco/4/a/6,"Arenaria interpres (Linnaeus, 1758)",,Ruddy turnstone ,,,"Mauritius, Case Noyale Bay",,W.H. Power,14-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+110,CAM-Q-0001,UMZC 16/Sco/13/m/1,,,Erolia testacea,,,"Mauritius, Cannonier's Point",,W.H. Power,09-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+111,CAM-Q-0001,UMZC 16/Sco/21/f/2 ,Numenius phaeopus phaeopus,,Whimbrel,,,"Mauritius, Bel Ombre",,E.Newton,16-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+112,CAM-Q-0001,UMZC 16/Sco/21/f/3,Numenius phaeopus phaeopus,,Whimbrel,,,"Mauritius, Savanne ",,E.Newton,28-09-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+113,CAM-Q-0001,UMZC 16/Sco/21/f/4 ,Numenius phaeopus phaeopus,,Whimbrel,,,"Mauritius, Cannonier's Point",,W.H. Power,15-02-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+114,CAM-Q-0001,UMZC 16/Sco/21/f/5,Numenius phaeopus phaeopus,,Whimbrel,,,"Mauritius, Black River Gorges",,W.H. Power,11-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+115,CAM-Q-0001,UMZC 16/Sco/21/f/11,Numenius phaeopus phaeopus,,Whimbrel,,,Mauritius,,A. Strickland,11-1833,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+116,CAM-Q-0001,UMZC 16/Sco/29/a/1,,,Xenus cinereus,,,"Mauritius, Case Noyale Bay",,W.H. Power,13-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+117,CAM-Q-0001,UMZC 17/Col/18/c/1,,,Geopelia striata,,,Mauritius,,E.Newton,20-06-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+118,CAM-Q-0001,UMZC 17/Col/18/c/2,,,Geopelia striata,,,Mauritius,,-,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+119,CAM-Q-0001,UMZC 17/Col/18/c/3,,,Geopelia striata,,,Mauritius,,-,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+120,CAM-Q-0001,UMZC 17/Col/18/c/5,,,Geopelia striata,,,Mauritius,,W.H. Power,09-01-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+121,CAM-Q-0001,UMZC 17/Col/35/a/1,,,Nesoenas mayeri,,,"Mauritius, Grand Bassin",,J. Sauzier ,23-07-1861,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+122,CAM-Q-0001,UMZC 17/Col/35/a/2,,,Nesoenas mayeri,,,"Mauritius, Grand Bassin",,E. Newton,12-07-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+123,CAM-Q-0001,UMZC 17/Col/35/a/3,,,Nesoenas mayeri,,,"Mauritius, Bois Sec",,,08-11-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+124,CAM-Q-0001,UMZC 17/Col/35/a/4,,,Nesoenas mayeri,,,"Mauritius, Vacoa",,J. Caldwell,1876,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+125,CAM-Q-0001,UMZC 17/Col/51/c/1,,,Streptopelia chinensis suratensis ?,,,"Mauritius, Montagne Long",,,08-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+126,CAM-Q-0001,UMZC 17/Col/51/i/1,,,Streptopelia picturata picturata,,,"Mauritius, Vacoa",,E. Newton,02-01-1861,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+127,CAM-Q-0001,UMZC 17/Col/51/i/2,,,Streptopelia picturata picturata,,,"Mauritius, Vacoa",,E. Newton,12-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+128,CAM-Q-0001,UMZC 18/Psi/1/a/1,,,Agapornis cana,,,Mauritius,,E. Newton,02-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+129,CAM-Q-0001,UMZC 18/Psi/1/a/2,,,Agapornis cana,,,"Mauritius, St. Martin",,,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+130,CAM-Q-0001,UMZC 18/Psi/1/a/3,,,Agapornis cana,,,"Mauritius, Bel Ombre",,Villiers,20 -06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+131,CAM-Q-0001,UMZC 18/Psi/1/a/4,,,Agapornis cana,,,"Mauritius, Bel Ombre",,Villiers,20 -06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+132,CAM-Q-0001,UMZC 18/Psi/1/a/7,,,Agapornis cana,,,Mauritius,,A. Strickland,1832,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+133,CAM-Q-0001,UMZC 18/Psi/38/a/1,"Melopsittacus undulatus (Shaw, 1805)",,Budgerigar,,,Mauritius,,Johnson,1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+134,CAM-Q-0001,UMZC 18/Psi/67/k/1,,,Psittacula krameri echo,,Syntype,"Mauritius, Vacoa",,,12-04-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+135,CAM-Q-0001,UMZC 18/Psi/67/k/2,,,Psittacula krameri echo,,Syntype,"Mauritius, Vacoa",,C.E. Banks,31-12-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+136,CAM-Q-0001,UMZC 18/Psi/67/k/3,,,Psittacula krameri echo,,Syntype,"Mauritius, Bois Sec",,,10-1873,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+137,CAM-Q-0001,UMZC 18/Psi/67/k/4,,,Psittacula krameri echo,,Syntype,"Mauritius, Bois Sec",,,10-1873,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+138,CAM-Q-0001,UMZC 22/Apo/5/c/1,,,Collocalia francica francica,,,Mauritius,,E. Newton,12-1859,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+139,CAM-Q-0001,UMZC 22/Apo/5/c/2,,,Collocalia francica francica,,,Mauritius,,E. Newton,12-1859,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+140,CAM-Q-0001,UMZC 22/Apo/5/c/4,,,Collocalia francica francica,,,"Mauritius, Vacoa",,E. Newton,25-11-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+141,CAM-Q-0001,UMZC 22/Apo/5/c/6,,,Collocalia francica francica,,,Mauritius,,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+142,CAM-Q-0001,UMZC 27/Cam/4/oo/1,,,Coracina typica,,,Mauritius,,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+143,CAM-Q-0001,UMZC 27/Cam/4/oo/2,,,Coracina typica,,,"Mauritius, Vacoa",,Edward Newton,06-04-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+144,CAM-Q-0001,UMZC 27/Cam/4/oo/3,,,Coracina typica,,,"Mauritius, Vacoa",,Edward Newton,31-12-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+145,CAM-Q-0001,UMZC 27/Cam/4/oo/4,,,Coracina typica,,,"Mauritius, Vacoa",,Edward Newton,31-12-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+146,CAM-Q-0001,UMZC 27/Est/21/b/3,,,Padda oryzivora,,,Mauritius,,Isidore I. Legentil,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+147,CAM-Q-0001,UMZC 27/Fri/18/f/1,,,Serinus canicollis canicollis,,,Mauritius,,E. Newton,1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+148,CAM-Q-0001,UMZC 27/Fri/18/f/2,,,Serinus canicollis canicollis,,,"Mauritius, Bel Ombre; Savanne",,Isadore I. Legentil,20-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+148,CAM-Q-0001,UMZC 27/Fri/18/f/3,,,Serinus canicollis canicollis,,,"Mauritius, Vacoa",,E. Newton,25-05-1863,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+150,CAM-Q-0001,UMZC 27/Fri/18/f/4,,,Serinus canicollis canicollis,,,"Mauritius, Vacoa",,E. Newton,14-07-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+151,CAM-Q-0001,UMZC 27/Fri/18/f/5,,,Serinus canicollis canicollis,,,"Mauritius, Vacoa",,E. Newton,14-07-1864,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+152,CAM-Q-0001,UMZC 27/Fri/18/t/1,,,Serinus mozambicus mozambicus,,,"Mauritius, St Martin; Savanne",,E. Newton,02-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+153,CAM-Q-0001,UMZC 27/Fri/18/t/2,,,Serinus mozambicus mozambicus,,,"Mauritius, Bel Ombre",,E. Newton,13-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+154,CAM-Q-0001,UMZC 27/Fri/18/t/3,,,Serinus mozambicus mozambicus,,,"Mauritius, Bel Ombre",,W. Wilson,14-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+155,CAM-Q-0001,UMZC 27/Fri/18/t/4,,,Serinus mozambicus mozambicus,,,"Mauritius, Bel Ombre",,I. Legentil,20-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+156,CAM-Q-0001,UMZC 27/Hir/12/a/1,,,Phedina borbonica borbonica,,,"Mauritius, Vacoa",,Edward Newton,06-04-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+157,CAM-Q-0001,UMZC 27/Hir/12/a/2,,,Phedina borbonica borbonica,,,"Mauritius, Vacoa",,Edward Newton,07-04-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+158,CAM-Q-0001,UMZC 27/Hir/12/a/3,,,Phedina borbonica borbonica,,,"Mauritius, Savanne",,A. Burnett,06-10-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+159,CAM-Q-0001,UMZC 27/Hir/12/a/7,,,Phedina borbonica borbonica,,,Mauritius,,[Sir] William] F[arquhar],,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+160,CAM-Q-0001,UMZC 27/Mus/51/d/1,,,Terpsiphone bourbonnensis desolata,,,"Mauritius, Vacoa",,Edward Newton,02-01-1860,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+161,CAM-Q-0001,UMZC 27/Mus/51/d/2,,,Terpsiphone bourbonnensis desolata,,,Mauritius,,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+162,CAM-Q-0001,UMZC 27/Mus/51/d/3,,,Terpsiphone bourbonnensis desolata,,,Mauritius,,,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+163,CAM-Q-0001,UMZC 27/Mus/51/d/4,,,Terpsiphone bourbonnensis desolata,,,"Mauritius, Bel Ombre",,Edward Newton,12-06-1862,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+164,CAM-Q-0001,UMZC 27/Mus/51/d/5,,,Terpsiphone bourbonnensis desolata,,,"Mauritius, Mondrin; Vacoa",,,16-09-1866,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+165,CAM-Q-0001,UMZC 27/Mus/51/d/7,,,Terpsiphone bourbonnensis desolata,,,Mauritius,,Dyce,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
+166,CAM-Q-0001,UMZC 27/Mus/51/d/8,,,Terpsiphone bourbonnensis desolata,,,Mauritius,,Dyce,,,,NO,,Not checked,Unverified,,,Skin (un-mounted) Unit: Single
