@@ -34,7 +34,7 @@ The core tables are:
 5. `unresolved_questions.csv`
 6. `Darwin_core_mapping.csv`
 7. `Darwin_coe_occurrence.csv`
-
+8. `UMZC catalogue register`
 
 ## Scope
 
