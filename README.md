@@ -8,7 +8,7 @@ This repository is intended to provide a transparent, updateable, and citable re
 
 ## Current version
 
-**v0.1.4 — cleaned version with QC pass and Darwin Tables added**
+**v0.1.5 — Added a Cambridge Zoological Search queue**
 
 This version should be treated as incomplete. Records may be added, corrected, merged, or reinterpreted as museum catalogues, literature, historical archives, and specimen data are checked.
 
